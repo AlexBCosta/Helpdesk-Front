@@ -21,3 +21,9 @@ h1 {
     width: 100%;
     text-align: center;
 }
+.edit {
+    color: #2365d0;
+}
+.delete {
+    color: red;
+}
